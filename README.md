@@ -1,0 +1,1 @@
+# text-difference-checker
