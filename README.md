@@ -21,3 +21,12 @@ Enter original and modified text, then compare.
 ## Running Locally
 
 Open `index.html` in a modern web browser.
+## Manual Testing Checklist
+
+- [ ] Compare two identical passages.
+- [ ] Change one line and inspect the reported difference.
+- [ ] Test added and removed lines.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
